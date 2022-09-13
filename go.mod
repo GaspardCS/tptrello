@@ -1,1 +1,1 @@
-echo
+module piscine
