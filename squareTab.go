@@ -14,6 +14,5 @@ func SquareTab(tab []int) []int {
 	for i := 0; i <= len(tab)-1; i++ {
 		secondTab = append(secondTab, Sqrt(tab[i]))
 	}
-
 	return secondTab
 }
