@@ -1,4 +1,4 @@
-package piscine
+package main
 
 import (
 	"sort"
@@ -29,4 +29,4 @@ func SortTab(tab []int) []int {
 	tab := []int{45, 12, 24, 4, 1}
 	tab = SortTab(tab)
 	fmt.Println(tab)
-} */
+}*/
